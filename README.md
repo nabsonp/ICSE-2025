@@ -1,6 +1,6 @@
 # ICSE 2025
 
-Supplementary material of the paper A Catalog of Micro Frontends Anti-patterns. 
+Supplementary material for the paper _A Catalog of Micro Frontends Anti-patterns_. All these documents are also available on Zenodo: https://zenodo.org/records/14241735.
 
 ### Anti-patterns
 Versions of the catalog with anti-patterns problems, solutions and examples.
@@ -13,7 +13,7 @@ Method and findings from the Rapid Review on Micro Frontends Anti-Patterns.
 
 ### Results
 Results of the quantitative and qualitative analysis.
-1. [Jupyter notebook with statistical tests results](./Statistic_tests.ipynb)
+1. [Jupyter notebook with statistical tests results](./Statistical_tests.ipynb)
 1. [Thematic Analysis results](./Thematic_Analysis.pdf)
 
 ### Survey
